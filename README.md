@@ -16,7 +16,14 @@ Here are some ideas to get you started:
 
 <img width="100%" src="https://user-images.githubusercontent.com/49470452/183388680-f3e9b518-4dd1-4f73-a092-ea6bc34fe403.jpg" />
 
-## 💡 About me 💡
+## <center>💡 About me 💡</center>
+```
+Hi everyone! My name is SeongJun Shin.
+I'm a student of KU. 
+I develop websites using mainly React.
+I'm a courageous and careful person. I like watching movies, or playing video games
+My dream is to make people to dive into my website and have a life-time experience.
+```
 
 ## 💻 Tech Stacks 💻
 <div>
@@ -37,13 +44,12 @@ Here are some ideas to get you started:
   <img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white"/>
   <img alt="Postman" src ="https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white"/> 
   <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/>
-</div>  <br />
+</div>  
 
 ## ✨ More About me ✨
 <a href="https://github.com/shinsj4653"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
 <a href="https://shinsj4653.github.io"><img src="https://img.shields.io/badge/DevBlog-2F2625?style=flat-square&logo=DevBlog&logoColor=white"/></a>
 <a href="https://www.instagram.com/singjun_1119"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="matilto:shinsj4653@gmail.com"><img src="https://img.shields.io/badge/shinsj4653@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinsj4653&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
