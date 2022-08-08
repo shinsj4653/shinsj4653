@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=250&section=header&text=Shin&desc=A%20Courageous%20Developer&fontColor=ffffff&fontSize=70&rotate=17&fontAlign=70&fontAlignY=30&descAlign=70&descAlignY=43)
 
+<img width="85%" src="https://user-images.githubusercontent.com/49470452/183388680-f3e9b518-4dd1-4f73-a092-ea6bc34fe403.jpg" />
+
+## 💡 About me 💡
+
 ## 💻 Tech Stacks 💻
 <div>
   <p>Techs i've used at least once</p>
@@ -34,6 +38,12 @@ Here are some ideas to get you started:
   <img alt="Postman" src ="https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white"/> 
   <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/>
 </div>  <br />
+
+## ✨ More About me ✨
+<a href="https://github.com/shinsj4653"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
+<a href="https://shinsj4653.github.io"><img src="https://img.shields.io/badge/DevBlog-2F2625?style=flat-square&logo=DevBlog&logoColor=white"/></a>
+<a href="https://www.instagram.com/singjun_1119"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="matilto:shinsj4653@gmail.com"><img src="https://img.shields.io/badge/shinsj4653@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinsj4653&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
