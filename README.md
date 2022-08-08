@@ -22,7 +22,7 @@ Hi everyone! My name is SeongJun Shin.
 I'm a student of KU. 
 I develop websites using mainly React.
 I'm a courageous and careful person. I like watching movies, or playing video games
-My dream is to make people to dive into my website and have a life-time experience.
+My dream is to make people dive into my website and have a life-time experience.
 ```
 
 ## 💻 Tech Stacks 💻
