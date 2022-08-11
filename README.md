@@ -47,9 +47,10 @@ My dream is to make people dive into my website and have a life-time experience.
 </div>  
 
 ## ✨ More About me ✨
-<a href="https://github.com/shinsj4653"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
-<a href="https://shinsj4653.github.io"><img src="https://img.shields.io/badge/DevBlog-2F2625?style=flat-square&logo=DevBlog&logoColor=white"/></a>
-<a href="https://www.instagram.com/singjun_1119"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://github.com/shinsj4653"><img src="https://img.shields.io/badge/Github-181717.svg?style=flat-square&logo=Github&logoColor=white"/></a>
+<a href="https://shinsj4653.github.io"><img src="https://img.shields.io/badge/DevBlog-0A0A0A.svg?style=flat-square&logo=DevBlog&logoColor=white"/></a>
+<a href="https://www.notion.so/Welcome-to-my-Notion-Page-0fda5a0b60d94c0bbd0ea579a226fc31"><img src="https://img.shields.io/badge/Notion-000000.svg?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://www.instagram.com/singjun_1119"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinsj4653&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
