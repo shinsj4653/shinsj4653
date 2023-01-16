@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ```
 Hi everyone! My name is SeongJun Shin.
 I'm a KU student at the Department of Computer Engineering.
-I develop websites using mainly React.
+I develop websites using mainly React and NodeJS.
 I'm a thoughtful and caring person. I like watching movies and playing video games. 
 My dream is to make people dive into my website and have a life-time experience.
 ```
