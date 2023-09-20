@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## <center>💡 About me 💡</center>
 ```
-Hi everyone! My name is SeongJun Shin.
+Hi everyone!
 I'm a college student at the Department of Computer Engineering.
 I develop websites using mainly SpringBoot and have interest in Database & AWS.
 I'm a thoughtful and caring person. I like watching movies and playing sports.
