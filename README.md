@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 
 ## <center>💡 About me 💡</center>
 ```
-각 프로젝트 README를 통해 사진, 영상, 혹은 플레이스토어 링크를 확인하실 수 있습니다.
-```
-```
 Hi everyone!
 I'm a college student at the Department of Computer Engineering.
 I develop websites using mainly React, SpringBoot and have interest in Database & AWS.
