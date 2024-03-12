@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ```
 Hi everyone!
 I'm a college student at the Department of Computer Engineering.
-I develop websites using mainly SpringBoot, React and have interest in Data Engineering.
+I develop websites using mainly SpringBoot, React and have interest in Data Engineering and Cloud Computing.
 My dream is to make people dive into my service and have a life-time experience.
 ```
 
