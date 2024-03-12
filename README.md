@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ```
 Hi everyone!
 I'm a college student at the Department of Computer Engineering.
-I develop backend environments using mainly SpringBoot Framerwork and have interest in Data Engineering and Cloud Computing.
+I develop backend environments using mainly SpringBoot Framework and have interest in Data Engineering and Cloud Computing.
 I'm currently deep diving into Elasticsearch via Open Source GDG Study, and studying AWS to certify Solutions Architect Associate Test.
 My dream is to make people dive into my service and have a life-time experience and gain loads of new insights.
 ```
@@ -48,7 +48,10 @@ My dream is to make people dive into my service and have a life-time experience 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-  
+
+## 🏡 My Clubs 🏡  
+<a href="https://gdsc.community.dev/konkuk-university"><img src="https://img.shields.io/badge/GDSC-brightgreen?style=flat-square"/></a>
+<a href="https://www.bigdataboaz.com/"><img src="https://img.shields.io/badge/BOAZ-blue?style=flat-square"/></a>
 
 ## ✨ More About me ✨
 <a href="https://github.com/shinsj4653"><img src="https://img.shields.io/badge/Github-181717.svg?style=flat-square&logo=Github&logoColor=white"/></a>
