@@ -50,15 +50,15 @@ My dream is to make people dive into my service and have a life-time experience 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ## 🏡 My Clubs 🏡  
-<a href="https://gdsc.community.dev/konkuk-university"><img src="https://img.shields.io/badge/GDSC-brightgreen?style=flat-square"/></a>
-<a href="https://www.bigdataboaz.com/"><img src="https://img.shields.io/badge/BOAZ-blue?style=flat-square"/></a>
+<a href="https://gdsc.community.dev/konkuk-university" target="_blank"><img src="https://img.shields.io/badge/GDSC-brightgreen?style=flat-square"/></a>
+<a href="https://www.bigdataboaz.com/" target="_blank"><img src="https://img.shields.io/badge/BOAZ-blue?style=flat-square"/></a>
 
 ## 🖋️ My DevBlog 🖋️
-<a href="https://shinsj4653.github.io"><img src="https://img.shields.io/badge/☞ Click here to enter my DevBlog!-F3BD19.svg?style=flat-square&logo=DevBlog&logoColor=white"/></a>
+<a href="https://shinsj4653.github.io" target="_blank"><img src="https://img.shields.io/badge/☞ Click here to enter my DevBlog!-F3BD19.svg?style=flat-square&logo=DevBlog&logoColor=white"/></a>
 
 ## ✨ More About me ✨
-<a href="https://www.notion.so/Welcome-to-my-Notion-Page-0fda5a0b60d94c0bbd0ea579a226fc31"><img src="https://img.shields.io/badge/Notion-000000.svg?style=flat-square&logo=Notion&logoColor=white"/></a>
-<a href="https://www.instagram.com/singjun_1119"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.notion.so/Welcome-to-my-Notion-Page-0fda5a0b60d94c0bbd0ea579a226fc31" target="_blank"><img src="https://img.shields.io/badge/Notion-000000.svg?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://www.instagram.com/singjun_1119" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinsj4653&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
