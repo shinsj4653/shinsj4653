@@ -22,6 +22,7 @@ Hi everyone!
 I'm a college student at the Department of Computer Engineering.
 I develop backend environments using mainly SpringBoot Framework and have interest in Data Engineering and Cloud Computing.
 I'm currently deep diving into Elasticsearch via Open Source GDG Study, and studying AWS to certify Solutions Architect Associate Test.
+I made my first opensource contribution in elasticsearch-java and currently waiting for reviews. 
 My dream is to make people dive into my service and have a life-time experience and gain loads of new insights.
 ```
 
