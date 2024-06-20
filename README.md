@@ -12,19 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=250&section=header&text=Shin&desc=An%20Ardent%20Developer&fontColor=ffffff&fontSize=70&rotate=17&fontAlign=70&fontAlignY=30&descAlign=70&descAlignY=43)
+# Hi, I'm Seongjun Shin 👋
+I am a passionate individual who enjoys creating new insights for people. I have contributed to the Elasticsearch Java open-source project and am currently seeking more opportunities to contribute. With my proficiency in zero-downtime CI/CD deployment, I am also studying ways to create efficient testing pipelines using these deployment methods.
 
-<img width="100%" src="https://user-images.githubusercontent.com/49470452/183388680-f3e9b518-4dd1-4f73-a092-ea6bc34fe403.jpg" />
+## 🔭 Projects
+- [Elasticsearch Java Opensource Contribution](https://github.com/elastic/elasticsearch-java/blob/4acf3c308fdab8e5c7c34db43e3a3bf26ccfdad3/java-client/src/main/java/co/elastic/clients/elasticsearch/security/EnableUserResponse.java#L63) *Mar 2024 ~ Jun 2024*  
+  - Searched through over `70 issues` on the Elasticsearch-Java open-source project. Selected the following issue. [Issue Link](https://github.com/elastic/elasticsearch-java/issues/718)
+  - Modified the deserializer's response type in the client code, ensuring it successfully matched the type in the server-side code. [Commit Link](https://github.com/elastic/elasticsearch-java/commit/4acf3c308fdab8e5c7c34db43e3a3bf26ccfdad3)
 
-## <center>💡 About me 💡</center>
-```
-Hi everyone!
-I'm a college student at the Department of Computer Engineering.
-I develop backend environments using mainly SpringBoot Framework and have interest in Data Engineering and Cloud Computing.
-I'm currently deep diving into Elasticsearch via Open Source GDG Study, and studying AWS to certify Solutions Architect Associate Test.
-I made my first opensource contribution in elasticsearch-java and currently waiting for reviews. 
-My dream is to make people dive into my service and have a life-time experience and gain loads of new insights.
-```
+- [Google Solution Challenge - BeadyEyes](https://github.com/shinsj4653/BeadyEyes-Backend) *Dec 2023 ~ Feb 2024*  
+  - Implemented a CI/CD pipeline using the deploy.yml file in `GitHub Actions`, consisting of 10 commands, to automate server change deployments for the application.
+  - Successfully implemented a `blue-green deployment` method using `Nginx port forwarding` for seamless deployment on a single server instance, reducing downtime during the deployment of a new server version from approximately `10 seconds to 0 seconds`.
 
 ## 💻 Tech Stacks 💻
 ### Strong
