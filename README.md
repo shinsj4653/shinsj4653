@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 I am a passionate individual who enjoys creating new insights for people. I have contributed to the Elasticsearch Java open-source project and am currently seeking more opportunities to contribute. With my proficiency in zero-downtime CI/CD deployment, I am also studying ways to create efficient testing pipelines using these deployment methods.
 
 ## 🔭 Projects
-- [Elasticsearch Java Opensource Contribution](https://github.com/elastic/elasticsearch-java/blob/4acf3c308fdab8e5c7c34db43e3a3bf26ccfdad3/java-client/src/main/java/co/elastic/clients/elasticsearch/security/EnableUserResponse.java#L63) *Mar 2024 ~ Jun 2024*  
+- <a href="https://github.com/elastic/elasticsearch-java/blob/4acf3c308fdab8e5c7c34db43e3a3bf26ccfdad3/java-client/src/main/java/co/elastic/clients/elasticsearch/security/EnableUserResponse.java#L63" target="_blank">Elasticsearch Java Opensource Contribution/a> *Mar 2024 ~ Jun 2024*  
   - Searched through over `70 issues` on the Elasticsearch-Java open-source project. Selected the following issue. [Issue Link](https://github.com/elastic/elasticsearch-java/issues/718)
   - Modified the deserializer's response type in the client code, ensuring it successfully matched the type in the server-side code. [Commit Link](https://github.com/elastic/elasticsearch-java/commit/4acf3c308fdab8e5c7c34db43e3a3bf26ccfdad3)
 
