@@ -15,16 +15,49 @@ Here are some ideas to get you started:
 # Hi, I'm Seongjun Shin 👋
 I am a passionate individual who enjoys creating new insights for people. I have contributed to the Elasticsearch Java open-source project and am currently seeking more opportunities to contribute. With my proficiency in zero-downtime CI/CD deployment, I am also studying ways to create efficient testing pipelines using these deployment methods.
 
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=shinsj4653&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=shinsj4653&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/shinsj4653/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinsj4653&layout=compact&hide=html,css,c&langs_count=10"/></a>
+</p>
+
+<p align='center'>
+   <a href="https://www.linkedin.com/in/seongjun-shin-an-ardent-developer/" target="_blank">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+   <a href="https://www.instagram.com/singjun_1119" target="_blank">
+     <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+   </a>
+</p>
+
+<p align='center'>
+   📫 How to reach me: <a href='mailto:shinsj4653@gmail.com'>shinsj4653@gmail.com</a>
+</p>
+<p align='center'>
+  🖋️ My DevBlog: <a href="https://shinsj4653.github.io" target="_blank">Click here!</a>
+</p>
+  
+
+
 ## 🔭 Projects
 - <a href="https://github.com/elastic/elasticsearch-java/blob/4acf3c308fdab8e5c7c34db43e3a3bf26ccfdad3/java-client/src/main/java/co/elastic/clients/elasticsearch/security/EnableUserResponse.java#L63" target="_blank">Elasticsearch Java Opensource Contribution</a> *Mar 2024 ~ Jun 2024*  
-  - Searched through over `70 issues` on the Elasticsearch-Java open-source project. Selected the following issue. [Issue Link](https://github.com/elastic/elasticsearch-java/issues/718)
-  - Modified the deserializer's response type in the client code, ensuring it successfully matched the type in the server-side code. [Commit Link](https://github.com/elastic/elasticsearch-java/commit/4acf3c308fdab8e5c7c34db43e3a3bf26ccfdad3)
+  - Searched through over `70 issues` on the Elasticsearch-Java open-source project. Selected the following issue. <a href="https://github.com/elastic/elasticsearch-java/issues/718" target="_blank">Issue Link</a>
+  - Modified the deserializer's response type in the client code, ensuring it successfully matched the type in the server-side code. <a href="https://github.com/elastic/elasticsearch-java/commit/4acf3c308fdab8e5c7c34db43e3a3bf26ccfdad3" target="_blank">Commit Link</a>
 
-- [Google Solution Challenge - BeadyEyes](https://github.com/shinsj4653/BeadyEyes-Backend) *Dec 2023 ~ Feb 2024*  
+- <a href="https://github.com/shinsj4653/BeadyEyes-Backend" target="_blank">Google Solution Challenge - BeadyEyes</a> *Dec 2023 ~ Feb 2024*  
   - Implemented a CI/CD pipeline using the deploy.yml file in `GitHub Actions`, consisting of 10 commands, to automate server change deployments for the application.
   - Successfully implemented a `blue-green deployment` method using `Nginx port forwarding` for seamless deployment on a single server instance, reducing downtime during the deployment of a new server version from approximately `10 seconds to 0 seconds`.
+ 
+## 💼 Experience
+- <a href="https://github.com/shinsj4653/vs-data-portal-backend" target="_blank">Data Portal Web Service Development at V Company</a> *Jul 2023 ~ Dec 2023*
 
-## 💻 Tech Stacks 💻
+  - Standardized over `200 DB tables from 20 different departments` into a unified metadata format (table ID, comments, category), thereby accomplishing company-wide data centralization for the company's data portal service.
+  - Achieved a `50% decrease in search speed` by utilizing the copy_to feature in Elasticsearch and reducing the number of search filtering conditions from three to one in the metadata.
+  - Improved the retrieval time for popular search keyword rankings by `60%` by applying force merge to the daily search log data, making data older than 24 hours read-only.
+
+
+## 💻 Tech Stacks
 ### Strong
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -48,20 +81,7 @@ I am a passionate individual who enjoys creating new insights for people. I have
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-## 🏡 My Clubs 🏡  
-<a href="https://gdsc.community.dev/konkuk-university" target="_blank"><img src="https://img.shields.io/badge/GDSC-brightgreen?style=flat-square"/></a>
-<a href="https://www.bigdataboaz.com/" target="_blank"><img src="https://img.shields.io/badge/BOAZ-blue?style=flat-square"/></a>
-
-## 🖋️ My DevBlog 🖋️
-<a href="https://shinsj4653.github.io" target="_blank"><img src="https://img.shields.io/badge/☞ Click here to enter my DevBlog!-F3BD19.svg?style=flat-square&logo=DevBlog&logoColor=white"/></a>
-
-## ✨ More About me ✨
-<a href="https://www.notion.so/Welcome-to-my-Notion-Page-0fda5a0b60d94c0bbd0ea579a226fc31" target="_blank"><img src="https://img.shields.io/badge/Notion-000000.svg?style=flat-square&logo=Notion&logoColor=white"/></a>
-<a href="https://www.instagram.com/singjun_1119" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/></a>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinsj4653&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinsj4653&layout=compact&hide=html,css,c&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-
-  
+## 🏡 Education & Clubs
+- Bachelor's degree in Computer Engineering from Konkuk University (Mar 2018 ~ Feb 2025)
+- Studied Java and SpringBoot skills in GDSC(Google Developer Student Clubs) (Sep 2023 ~ Jun 2024)
+- Learned how to design large scale systems in BOAZ(Big Data is our A to Z) Club (Jan 2024 ~ Jun 2024)
