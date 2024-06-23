@@ -59,9 +59,9 @@ I am a passionate individual who enjoys creating new insights for people. I have
 ## 📚 Study
 - <a href="https://github.com/shinsj4653/atdd-subway" target="_blank">ATDD Study Program</a> *Jul 2023 ~ Sep 2023*
 
-   - Utilized the RestAssured API to write acceptance test codes.
-   - Learned the Mockito library and wrote service layer test code through stubbing.
-   - Studied the random port environment during acceptance testing and gained an understanding of Java threads and transactions.
+   - Utilized the `RestAssured` Library to write acceptance test codes.
+   - Learned the `Mockito` library and wrote service layer test code through `stubbing`.
+   - Studied the `random port` environment during acceptance testing and gained an understanding of `Java threads and transactions`.
 
 ## 💻 Tech Stacks
 ### Strong
