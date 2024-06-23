@@ -56,6 +56,11 @@ I am a passionate individual who enjoys creating new insights for people. I have
   - Achieved a `50% decrease in search speed` by utilizing the copy_to feature in Elasticsearch and reducing the number of search filtering conditions from three to one in the metadata.
   - Improved the retrieval time for popular search keyword rankings by `60%` by applying force merge to the daily search log data, making data older than 24 hours read-only.
 
+## 📚 Study
+- <a href="https://github.com/shinsj4653/atdd-subway" target="_blank">ATDD Study Club</a>
+   - Utilized the RestAssured API to write acceptance test codes.
+   - Learned the Mockito library and wrote service layer test code through stubbing.
+   - Studied the random port environment during acceptance testing and gained an understanding of Java threads and transactions.
 
 ## 💻 Tech Stacks
 ### Strong
