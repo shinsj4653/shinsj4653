@@ -19,7 +19,7 @@ I am a passionate individual who enjoys creating new insights for people. I have
    <a href="https://github-readme-stats.vercel.app/api?username=shinsj4653&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=shinsj4653&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/shinsj4653/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinsj4653&layout=compact&hide=html,css,c&langs_count=10"/></a>
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinsj4653&layout=compact&hide=html,css,c,javascript&langs_count=10"/></a>
 </p>
 
 <p align='center'>
