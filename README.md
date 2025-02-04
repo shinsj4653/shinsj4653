@@ -41,6 +41,10 @@ I am a passionate individual who enjoys creating new insights for people. I have
 
 
 ## 🔭 Projects
+- <a href="https://github.com/CareerSync/careersync-backend" target="_blank">Careersync - RAG Based recruitment information chatbot service</a> *Mar 2024 ~ Nov 2024*  
+  - Improved code reusability and reduced duplication by implementing an `Interceptor` for session validation, replacing redundant logic in API requests.  
+  - Enhanced code maintainability by applying the `Builder pattern` to convert POST request body values into Entity objects.  
+
 - <a href="https://github.com/elastic/elasticsearch-java/blob/4acf3c308fdab8e5c7c34db43e3a3bf26ccfdad3/java-client/src/main/java/co/elastic/clients/elasticsearch/security/EnableUserResponse.java#L63" target="_blank">Elasticsearch Java Opensource Contribution</a> *Mar 2024 ~ Jun 2024*  
   - Searched through over `70 issues` on the Elasticsearch-Java open-source project. Selected the following issue. <a href="https://github.com/elastic/elasticsearch-java/issues/718" target="_blank">Issue Link</a>
   - Modified the deserializer's response type in the client code, ensuring it successfully matched the type in the server-side code. <a href="https://github.com/elastic/elasticsearch-java/commit/4acf3c308fdab8e5c7c34db43e3a3bf26ccfdad3" target="_blank">Commit Link</a>
@@ -69,13 +73,6 @@ I am a passionate individual who enjoys creating new insights for people. I have
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-
-### Front
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 
 
 ### Database
