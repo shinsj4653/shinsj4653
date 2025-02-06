@@ -43,7 +43,8 @@ I am a passionate individual who enjoys creating new insights for people. I have
 ## 🔭 Projects
 - <a href="https://github.com/CareerSync/careersync-backend" target="_blank">Careersync - RAG Based recruitment information chatbot service</a> *Mar 2024 ~ Nov 2024*  
   - Improved code reusability and reduced duplication by implementing an `Interceptor` for session validation, replacing redundant logic in API requests.  
-  - Enhanced code maintainability by applying the `Builder pattern` to convert POST request body values into Entity objects.  
+  - Enhanced code maintainability by applying the `Builder pattern` to convert POST request body values into Entity objects.
+  - Automated the Docker deployment pipeline based on GitHub Actions by adopting the `Azure PaaS`environment.
 
 - <a href="https://github.com/elastic/elasticsearch-java/blob/4acf3c308fdab8e5c7c34db43e3a3bf26ccfdad3/java-client/src/main/java/co/elastic/clients/elasticsearch/security/EnableUserResponse.java#L63" target="_blank">Elasticsearch Java Opensource Contribution</a> *Mar 2024 ~ Jun 2024*  
   - Searched through over `70 issues` on the Elasticsearch-Java open-source project. Selected the following issue. <a href="https://github.com/elastic/elasticsearch-java/issues/718" target="_blank">Issue Link</a>
@@ -57,8 +58,8 @@ I am a passionate individual who enjoys creating new insights for people. I have
 - <a href="https://github.com/shinsj4653/vs-data-portal-backend" target="_blank">Data Portal Web Service Development at V Company</a> *Jul 2023 ~ Dec 2023*
 
   - Standardized over `200 DB tables from 20 different departments` into a unified metadata format (table ID, comments, category), thereby accomplishing company-wide data centralization for the company's data portal service.
-  - Achieved a `50% decrease in search speed` by utilizing the copy_to feature in Elasticsearch and reducing the number of search filtering conditions from three to one in the metadata.
   - Improved the retrieval time for popular search keyword rankings by `60%` by applying force merge to the daily search log data, making data older than 24 hours read-only.
+  - Constructed a secure environment using `NAT Gateway`, ensuring the database can only be accessed via `SSH tunneling` through a `Bastion Host` due to the private IP of the private subnet within the VPC.
 
 ## 📚 Study
 - <a href="https://github.com/shinsj4653/atdd-subway" target="_blank">ATDD Study Program</a> *Jul 2023 ~ Sep 2023*
@@ -72,7 +73,6 @@ I am a passionate individual who enjoys creating new insights for people. I have
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 ### Database
@@ -82,7 +82,6 @@ I am a passionate individual who enjoys creating new insights for people. I have
 
 ### Cloud
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-<img src="https://img.shields.io/badge/google%20cloud-%234285F4.svg?&style=for-the-badge&logo=google%20cloud&logoColor=white" />
 <img src="https://img.shields.io/badge/microsoft%20azure-%230089D6.svg?&style=for-the-badge&logo=microsoft%20azure&logoColor=white" />
 
 ### Collaboration Tool
