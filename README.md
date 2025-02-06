@@ -85,7 +85,7 @@ I am a passionate individual who enjoys creating new insights for people. I have
 <img src="https://img.shields.io/badge/microsoft%20azure-%230089D6.svg?&style=for-the-badge&logo=microsoft%20azure&logoColor=white" />
 
 ### Collaboration Tool
-<img src="https://img.shields.io/badge/jira%20software-%230052CC.svg?&style=for-the-badge&logo=jira%20software&logoColor=white" />
+<img src="https://img.shields.io/badge/jira%20software-%230052CC.svg?&style=for-the-badge&logo=jira%20software&logoColor=white" /> <img src="https://img.shields.io/badge/confluence-%230052CC.svg?&style=for-the-badge&logo=confluence&logoColor=white" />
 
 ## 🏡 Education & Clubs
 - Bachelor's degree in Computer Engineering from Konkuk University (Mar 2018 ~ Feb 2025)
