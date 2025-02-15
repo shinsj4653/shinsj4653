@@ -41,7 +41,7 @@ I am a passionate individual who enjoys creating new insights for people. I have
 
 
 ## 🔭 Projects
-- <a href="https://github.com/CareerSync/careersync-backend" target="_blank">Careersync - RAG Based recruitment information chatbot service</a> *Mar 2024 ~ Nov 2024*  
+- <a href="https://github.com/orgs/CareerSync/repositories" target="_blank">Careersync - RAG Based recruitment information chatbot service</a> *Mar 2024 ~ Nov 2024*  
   - Improved code reusability and reduced duplication by implementing an `Interceptor` for session validation, replacing redundant logic in API requests.  
   - Enhanced code maintainability by applying the `Builder pattern` to convert POST request body values into Entity objects.
   - Automated the Docker deployment pipeline based on GitHub Actions by adopting the `Azure PaaS`environment.
