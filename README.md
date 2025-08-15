@@ -14,7 +14,22 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Seongjun Shin 👋
 I am a passionate individual who enjoys creating new insights for people. I have contributed to the `Elasticsearch Java` open-source project and am currently seeking more opportunities to contribute. With my proficiency in `zero-downtime CI/CD deployment`, I am also studying ways to create efficient testing pipelines using these deployment methods.
-
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://solved.ac/shin4653">
+          <img src="http://mazassumnida.wtf/api/generate_badge?boj=shin4653" alt="Solved.ac Profile">
+        </a>
+      </td>
+      <td>
+        <a href="https://leetcode.com/shinsj4653/">
+          <img src="https://leetcard.jacoblin.cool/shinsj4653?theme=light&font=Noto%20Sans%20Multani" alt="LeetCode Stats">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=shinsj4653&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=shinsj4653&show_icons=true&count_private=true"/></a>
